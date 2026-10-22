@@ -1,0 +1,7 @@
+[
+  {"id":1,"name":"Chicken Biryani","category":"Biryani","price":220,"img":"assets/images/biryani.jpg","rating":4.6,"desc":"Fragrant basmati rice with tender chicken."},
+  {"id":2,"name":"Veg Burger","category":"Burger","price":125,"img":"assets/images/burger.jpg","rating":4.1,"desc":"Crispy patty with fresh veggies and sauces."},
+  {"id":3,"name":"Chocolate Brownie","category":"Dessert","price":95,"img":"assets/images/brownie.jpg","rating":4.4,"desc":"Warm chocolate brownie with ice cream."},
+  {"id":4,"name":"Pepperoni Pizza","category":"Pizza","price":340,"img":"assets/images/pizza.jpg","rating":4.3,"desc":"Classic pepperoni with cheese burst."},
+  {"id":5,"name":"Paneer Tikka","category":"Starter","price":180,"img":"assets/images/paneer.jpg","rating":4.2,"desc":"Marinated paneer grilled to perfection."}
+]
